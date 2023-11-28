@@ -1,0 +1,4 @@
+﻿  11-28.c
+D:\专业课\c++\Debug\11-28\11-28.c(137,7): warning C4047: “初始化”:“int (*)[0]”与“int *”的间接级别不同
+D:\专业课\c++\Debug\11-28\11-28.c(139,9): warning C4047: “初始化”:“int (__cdecl *(*)[0])(int,int)”与“int (__cdecl **)(int,int)”的间接级别不同
+  11-28.vcxproj -> D:\专业课\c++\Debug\11-28\x64\Debug\11-28.exe
