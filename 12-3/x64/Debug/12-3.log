@@ -1,0 +1,4 @@
+﻿  12-3.c
+D:\专业课\c++\Debug\12-3\12-3.c(108,12): warning C4013: “strlen”未定义；假设外部返回 int
+D:\专业课\c++\Debug\12-3\12-3.c(116,2): warning C4013: “gets”未定义；假设外部返回 int
+  12-3.vcxproj -> D:\专业课\c++\Debug\12-3\x64\Debug\12-3.exe
