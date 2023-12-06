@@ -1,0 +1,5 @@
+﻿  12-6.c
+D:\专业课\c++\Debug\12-6\12-6.c(88,16): warning C4477: “printf”: 格式字符串“%5d”需要类型“int”的参数，但可变参数 1 拥有了类型“LineList”
+D:\专业课\c++\Debug\12-6\12-6.c(95,16): warning C4477: “printf”: 格式字符串“%5d”需要类型“int”的参数，但可变参数 1 拥有了类型“LineList”
+D:\专业课\c++\Debug\12-6\12-6.c(129,23): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“LineList *”
+  12-6.vcxproj -> D:\专业课\c++\Debug\12-6\x64\Debug\12-6.exe
